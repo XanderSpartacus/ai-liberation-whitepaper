@@ -22,10 +22,10 @@ Pour la première fois dans l'histoire, nous avons la possibilité concrète de 
 ## 📄 Le Livre Blanc
 
 ### Version française
-- **[L'IA et la Fin du Salariat (PDF)](./whitepaper-fr.pdf)** - Manifeste complet
+- **[L'IA et la Fin du Salariat (PDF)](./ai-liberation-whitepaper-fr.pdf)** - Manifeste complet
 
 ### English version
-- **[AI and the End of Wage Labor (PDF)](./whitepaper-en.pdf)** - Complete manifesto *(coming soon)*
+- **[AI and the End of Wage Labor (PDF)](./ai-liberation-whitepaper-en.pdf)** - Complete manifesto
 
 ---
 
